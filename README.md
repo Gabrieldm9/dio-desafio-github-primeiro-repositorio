@@ -1,6 +1,3 @@
-# Desafios DIO
-Este repositório foi criado para armazenar os desafios feitos durante o bootcamp
+## Desafio-01
 
-## Desafios
-
-* [Desafio 01](desafio-01) - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+Este desafio consiste em desenvolver um sistema de gerenciamento de pessoas em API REST com Spring Boot
